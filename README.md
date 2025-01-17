@@ -1,5 +1,4 @@
 # Python
-First python code 
-<br>
-Python Basci to advance
+Python Basci to advance learn 
+
 
