@@ -1,0 +1,22 @@
+2024-12-25 17:04:30,885-root-DEBUG-This is a debug message
+2024-12-25 17:04:30,886-root-INFO-This is info message
+2024-12-25 17:04:30,886-root-WARNING-This is a warning message
+2024-12-25 17:04:30,887-root-ERROR-This is aerre message
+2024-12-25 17:04:30,887-root-CRITICAL-This is a critical message
+2024-12-25 17:05:30,219-root-DEBUG-This is a debug message
+2024-12-25 17:05:30,219-root-INFO-This is info message
+2024-12-25 17:05:30,220-root-WARNING-This is a warning message
+2024-12-25 17:05:30,220-root-ERROR-This is aerre message
+2024-12-25 17:05:30,220-root-CRITICAL-This is a critical message
+ERROR:root:this is error message
+WARNING:root:this is warning message
+CRITICAL:root:this is a critical message
+ERROR:root:this is error message
+WARNING:root:this is warning message
+CRITICAL:root:this is a critical message
+ERROR:root:this is error message
+WARNING:root:this is warning message
+CRITICAL:root:this is a critical message
+ERROR:root:this is error message
+WARNING:root:this is warning message
+CRITICAL:root:this is a critical message
