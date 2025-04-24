@@ -17,7 +17,6 @@ def add(a,b):
     logger.debug(f"Addition {a} + {b} = {c}")
     return c 
 
-
 def sub(a,b):
     c=a-b
     logger.debug(f"Addition {a} - {b} = {c}")
