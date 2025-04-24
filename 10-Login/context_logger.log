@@ -1,0 +1,5 @@
+2024-12-26 20:41:23,284-context_logger-DEBUG-This is a debug
+2024-12-26 20:41:23,284-context_logger-INFO-This is a info 
+2024-12-26 20:41:23,285-context_logger-ERROR-This is a error
+2024-12-26 20:41:23,285-context_logger-CRITICAL-This is a critical
+2024-12-26 20:41:23,285-context_logger-WARNING-This is a warning
