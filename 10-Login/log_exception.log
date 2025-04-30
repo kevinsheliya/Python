@@ -1,0 +1,6 @@
+2024-12-26 20:30:19,094-log_exception-ERROR-An exception accured 
+Traceback (most recent call last):
+  File "C:\Users\D E L L\AppData\Local\Temp\ipykernel_17148\4208520523.py", line 12, in log_exception
+    1/0
+    ~^~
+ZeroDivisionError: division by zero
